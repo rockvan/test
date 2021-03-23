@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Fall Out Boy Fansite</title>
+	</head>
+	<body>
+		<table style="width: 100%">
+			<tr>
+				<th></th>
+				<th>
+					<h1>Fall Out Boy</h1>
+					<img
+						src="https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png"
+						alt="SaveRockAndRoll-album-img"
+					/>
+					<br />
+					<a
+						href="https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU?highlight=spotify:track:7jwDuO7UZvWs77KNj9HbvF"
+					>
+						click here to listen to album on spotify</a
+					>
+					<h1>Bio</h1>
+					<p>
+						Fall Out Boy is an American rock band formed in Wilmette, Illinois,
+						a suburb of Chicago, in 2001.
+					</p>
+				</th>
+			</tr>
+			<tr>
+				<th>
+					<h1>Members</h1>
+				</th>
+				<th>
+					<h1>Favorite Album List</h1>
+				</th>
+				<th>
+					<h1>Video link</h1>
+				</th>
+			</tr>
+			<td>
+				<ul>
+					<li>
+						Patrick Stump – lead vocals (2001–present); rhythm guitar, keyboards
+						(2002–present)
+					</li>
+					<li>
+						Joe Trohman – lead guitar, backing vocals (2001–present); keyboards
+						(2013–present)
+					</li>
+					<li>
+						Pete Wentz – bass, unclean vocals, backing vocals (2001–present)
+					</li>
+					<li>
+						Andy Hurley – drums, percussion (2003–present); backing vocals
+						(2013–present)
+					</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>
+						<a
+							href="https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+							target="_blank"
+							>American Beauty/American Psycho</a
+						>
+					</li>
+					<li>
+						<a
+							href="https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
+							target="_blank"
+							>Believers Never Die - Greatest Hits</a
+						>
+					</li>
+					<li>
+						<a
+							href="https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd"
+							target="_blank"
+							>Believers Never Die (Volume Two)</a
+						>
+					</li>
+					<li>
+						<a
+							href="https://open.spotify.com/album/2Fd3LbDN1VzQj1BDb8gk4j"
+							target="_blank"
+							>Infinity On High</a
+						>
+					</li>
+					<li>
+						<a
+							href="https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+							target="_blank"
+							>From Under The Cork Tree</a
+						>
+					</li>
+				</ul>
+			</td>
+			<td>
+				<iframe
+					src="https://youtu.be/EtdvWbe8pXM"
+					frameborder="0"
+					height="450"
+					width="600"
+				></iframe>
+			</td>
+		</table>
+	</body>
+</html>
